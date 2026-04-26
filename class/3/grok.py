@@ -5,7 +5,7 @@ def generate_response(prompt, temperature=0.7, max_tokens=20):
     url = "https://openrouter.ai/api/v1/chat/completions"
 
     headers = {
-        "Authorization": f"Bearer {API_KEY}",
+        "Authorization": f"Bearer {"Your api key here"}",
         "Content-Type": "application/json"
     }
 
