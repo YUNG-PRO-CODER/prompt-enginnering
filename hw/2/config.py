@@ -1,1 +1,0 @@
-API_KEY_GPT = "your_api_key_here"
