@@ -1,0 +1,1 @@
+API_KEY_GPT = "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"
